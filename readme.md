@@ -9,3 +9,9 @@ Hello World!
 2+3= 5
 Type: Sedan
 Color: Blue
+
+Steps to push local to hub:
+
+1. open hub.docker.com
+2. create new repository:cpptest
+3. right click Action >Push to Hub -  same as the prompt: docker push anhsguy792/cpptest:tagname
